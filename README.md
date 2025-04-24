@@ -58,17 +58,6 @@ After building several hotels in a tourist area, a hotel director wishes to buil
 - `Price`
 - `Beds_Numbers`
 
----
-
-## 🖼️ Relational Model Diagram
-
-Below is the relational model visualized:
-
-![Relational Model Diagram](./shemas.png)
-
-> 💡 Each box represents a table, with **primary keys (PK)** and **foreign keys (FK)** labeled. Arrows show relationships between the entities.
-
----
 
 ## ✅ Notes
 
